@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cl.walkwithme.m4uro.walkwithme01.TrainingMenu">
+
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <Button
+            android:id="@+id/btnCaminar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="103dp"
+            android:text="Caminar"
+            android:layout_alignEnd="@+id/btnSaltar"
+            android:layout_alignStart="@+id/btnSaltar" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="Entrene Acción"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:id="@+id/btnSaltar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Saltar"
+            android:layout_below="@+id/btnCaminar"
+            android:layout_alignEnd="@+id/btnCorrer"
+            android:layout_alignStart="@+id/btnCorrer" />
+
+        <Button
+            android:id="@+id/btnCorrer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnSaltar"
+            android:text="correr"
+            android:layout_alignEnd="@+id/btnReposo"
+            android:layout_alignStart="@+id/btnReposo" />
+
+        <Button
+            android:id="@+id/btnReposo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnCorrer"
+            android:text="Reposo"
+            android:layout_alignEnd="@+id/btnAcostarParar"
+            android:layout_alignStart="@+id/btnAcostarParar" />
+
+        <Button
+            android:id="@+id/btnSentarParar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sentarse - Pararse"
+            android:layout_below="@+id/btnReposo"
+            android:layout_alignStart="@+id/btnReposo"
+            android:layout_alignEnd="@+id/btnReposo" />
+
+        <Button
+            android:id="@+id/btnAcostarParar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Acostarse - Pararse"
+            android:layout_below="@+id/btnSentarParar"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="11dp"
+            android:textSize="18sp" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
