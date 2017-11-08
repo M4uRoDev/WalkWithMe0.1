@@ -131,8 +131,7 @@ public class TrainingMenu extends AppCompatActivity {
                         datas = "axisX,axisY,axisZ,time\n";
                         new CountDownTimer(60000, 333) {
                             public void onTick(long millisUntilFinished) {
-                                label.setText("Camine... \nSegundos restantes: " + millisUntilFinished / 1000);
-                                debug.setText(":" + (millisUntilFinished/1000)%2);
+                                label.setText("Camine\nDurante: " + millisUntilFinished / 1000 + " segundos.");
                                 wwmeDevice.setLed(dataApp.blue);
                                 wwmeDevice.setLed(dataApp.off);
                                 wwmeDevice.readAcceleration(new com.punchthrough.bean.sdk.message.Callback<Acceleration>() {
@@ -202,7 +201,7 @@ public class TrainingMenu extends AppCompatActivity {
                         datas = "axisX,axisY,axisZ,time\n";
                         new CountDownTimer(60000, 333) {
                             public void onTick(long millisUntilFinished) {
-                                label.setText("Segundos restantes: " + millisUntilFinished / 1000);
+                                label.setText("Durante: " + millisUntilFinished / 1000 + " segundos.");
                                 if((millisUntilFinished / 1000)%5 == 0){
                                     debug.setVisibility(View.VISIBLE);
                                 }else{
@@ -276,7 +275,7 @@ public class TrainingMenu extends AppCompatActivity {
                         datas = "axisX,axisY,axisZ,time\n";
                         new CountDownTimer(60000, 333) {
                             public void onTick(long millisUntilFinished) {
-                                label.setText("Corra...!\nSegundos restantes: " + millisUntilFinished / 1000);
+                                label.setText("Corra\nDurante: " + millisUntilFinished / 1000+ " segundos.");
                                 wwmeDevice.setLed(dataApp.blue);
                                 wwmeDevice.setLed(dataApp.off);
                                 wwmeDevice.readAcceleration(new com.punchthrough.bean.sdk.message.Callback<Acceleration>() {
@@ -344,7 +343,7 @@ public class TrainingMenu extends AppCompatActivity {
                         datas = "axisX,axisY,axisZ,time\n";
                         new CountDownTimer(60000, 333) {
                             public void onTick(long millisUntilFinished) {
-                                label.setText("Mantengase en reposo...!\nSegundos restantes: " + millisUntilFinished / 1000);
+                                label.setText("Mantengase en reposo\nDurante: " + millisUntilFinished / 1000+ " segundos.");
                                 wwmeDevice.setLed(dataApp.blue);
                                 wwmeDevice.setLed(dataApp.off);
                                 wwmeDevice.readAcceleration(new com.punchthrough.bean.sdk.message.Callback<Acceleration>() {
@@ -358,7 +357,7 @@ public class TrainingMenu extends AppCompatActivity {
                             }
 
                             public void onFinish() {
-                                label.setText("Terminado!");
+                                label.setText("¡Terminado!");
                                 btnReposo.setText("Reposo: OK!");
                                 btnReposo.setVisibility(View.VISIBLE);
                                 guardarData("reposo", datas);
@@ -425,7 +424,6 @@ public class TrainingMenu extends AppCompatActivity {
                     .build();
             OkHttpClient okHttpClient = new OkHttpClient();
             Response response = okHttpClient.newCall(request).execute();
-            Toast.makeText(getApplicationContext(),"Data: "+response.toString(),Toast.LENGTH_LONG).show();
 
 
         } catch (FileNotFoundException e){
