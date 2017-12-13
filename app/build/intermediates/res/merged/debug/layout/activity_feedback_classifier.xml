@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cl.walkwithme.m4uro.walkwithme01.FeedbackClassifier"
+    android:background="@drawable/bg_content">
+
+    <RelativeLayout
+        android:layout_width="362dp"
+        android:layout_height="579dp"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="7dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="31dp"
+            android:layout_above="@+id/button15"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/textView17"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:text="Caminar" />
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/imageView2"
+            android:layout_toEndOf="@+id/textView17"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:text="Correr" />
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/button15"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/button15"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:text="Saltar" />
+
+        <Button
+            android:id="@+id/button18"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/button16"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:text="Reposo"
+            android:layout_toEndOf="@+id/textView17" />
+
+        <Button
+            android:id="@+id/button19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/button17"
+            android:backgroundTint="@android:color/holo_green_dark"
+            android:text="Acostarse-Pararse" />
+
+        <Button
+            android:id="@+id/button20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/button19"
+            android:layout_below="@+id/button19"
+            android:backgroundTint="@android:color/holo_green_dark"
+            android:text="Sentarse-Pararse" />
+
+        <Button
+            android:id="@+id/button21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/button20"
+            android:text="Salir" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:text="Estoy prediciendo..."
+            android:textColor="@android:color/background_light"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView18"
+            android:layout_centerHorizontal="true"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:text="Precisión"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView17"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="13dp"
+            android:text="Predicción"
+            android:textAlignment="center" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

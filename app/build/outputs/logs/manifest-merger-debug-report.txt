@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:5:5-68
+MERGED from [com.punchthrough.bean.sdk:sdk:2.1.1] /Users/m4uro/.android/build-cache/3302cdf7218a9073752767e201f3e6f075fad9ef/output/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:6:5-74
+MERGED from [com.punchthrough.bean.sdk:sdk:2.1.1] /Users/m4uro/.android/build-cache/3302cdf7218a9073752767e201f3e6f075fad9ef/output/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [com.punchthrough.bean.sdk:sdk:2.1.1] /Users/m4uro/.android/build-cache/3302cdf7218a9073752767e201f3e6f075fad9ef/output/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:9:22-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:14:22-65
+uses-feature#android.hardware.BLUETOOTH_LE
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:16:5-18:35
+	android:required
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:18:9-32
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:17:9-53
+application
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:20:5-59:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/m4uro/.android/build-cache/73bfa638d408e3cb09b8e1eecb90e366fb83bebd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/m4uro/.android/build-cache/b76059127a65561a680d335453c6bb7bf3fd5a38/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/m4uro/.android/build-cache/3a4cdd5baa010ceee85b754796bcc385d811ad28/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/m4uro/.android/build-cache/a6c5b4287e4eb77371d04c1fad242ba3f170d45e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/m4uro/.android/build-cache/6e070080785740b1287bfdd9a0d728da073cf2d6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/m4uro/.android/build-cache/9c66aeb8e8ed6b9747af59c2bc85b4aab02e96f8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/m4uro/.android/build-cache/2ba6483e09c530849681f8320a02cb7cc0c02748/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/m4uro/.android/build-cache/3c801841f5eee96186c7455232ea0500b6a3f479/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/m4uro/.android/build-cache/55e464102aa147388869752cb74c7d2bef3b6f39/output/AndroidManifest.xml:9:5-20
+MERGED from [com.punchthrough.bean.sdk:sdk:2.1.1] /Users/m4uro/.android/build-cache/3302cdf7218a9073752767e201f3e6f075fad9ef/output/AndroidManifest.xml:15:5-16:19
+	android:label
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:25:9-35
+	android:roundIcon
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:24:9-54
+	android:allowBackup
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:26:9-40
+activity#cl.walkwithme.m4uro.walkwithme01.Authentication
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:27:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:31:27-74
+activity#cl.walkwithme.m4uro.walkwithme01.findDevices
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:36:13-53
+	android:theme
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:35:13-40
+activity#cl.walkwithme.m4uro.walkwithme01.MainMenu
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:38:9-46
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:38:19-43
+activity#cl.walkwithme.m4uro.walkwithme01.TrainingMenu
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:39:9-50
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:39:19-47
+activity#cl.walkwithme.m4uro.walkwithme01.ClassifierClient
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:40:9-54
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:40:19-51
+activity#cl.walkwithme.m4uro.walkwithme01.RegisterSupportNet
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:41:19-53
+activity#cl.walkwithme.m4uro.walkwithme01.RegisterElderly
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:42:9-53
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:42:19-50
+activity#cl.walkwithme.m4uro.walkwithme01.SupportNetMenu
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:43:9-52
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:43:19-49
+activity#cl.walkwithme.m4uro.walkwithme01.RegisterNewSupportNet
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:44:9-59
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:44:19-56
+service#cl.walkwithme.m4uro.walkwithme01.AlertReceiver
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:46:9-49:39
+	android:enabled
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:47:13-42
+activity#cl.walkwithme.m4uro.walkwithme01.AlertResponse
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:51:9-51
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:51:19-48
+service#cl.walkwithme.m4uro.walkwithme01.hideAlertDispatcher
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:53:9-56:39
+	android:enabled
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:54:13-48
+activity#cl.walkwithme.m4uro.walkwithme01.FeedbackClassifier
+ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:58:9-65
+	android:name
+		ADDED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml:58:19-53
+uses-sdk
+INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/m4uro/.android/build-cache/73bfa638d408e3cb09b8e1eecb90e366fb83bebd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/m4uro/.android/build-cache/b76059127a65561a680d335453c6bb7bf3fd5a38/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/m4uro/.android/build-cache/3a4cdd5baa010ceee85b754796bcc385d811ad28/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/m4uro/.android/build-cache/a6c5b4287e4eb77371d04c1fad242ba3f170d45e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/m4uro/.android/build-cache/6e070080785740b1287bfdd9a0d728da073cf2d6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/m4uro/.android/build-cache/9c66aeb8e8ed6b9747af59c2bc85b4aab02e96f8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/m4uro/.android/build-cache/2ba6483e09c530849681f8320a02cb7cc0c02748/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/m4uro/.android/build-cache/3c801841f5eee96186c7455232ea0500b6a3f479/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/m4uro/.android/build-cache/55e464102aa147388869752cb74c7d2bef3b6f39/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.punchthrough.bean.sdk:sdk:2.1.1] /Users/m4uro/.android/build-cache/3302cdf7218a9073752767e201f3e6f075fad9ef/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/m4uro/.android/build-cache/73bfa638d408e3cb09b8e1eecb90e366fb83bebd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/m4uro/.android/build-cache/b76059127a65561a680d335453c6bb7bf3fd5a38/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/m4uro/.android/build-cache/3a4cdd5baa010ceee85b754796bcc385d811ad28/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/m4uro/.android/build-cache/a6c5b4287e4eb77371d04c1fad242ba3f170d45e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/m4uro/.android/build-cache/6e070080785740b1287bfdd9a0d728da073cf2d6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/m4uro/.android/build-cache/9c66aeb8e8ed6b9747af59c2bc85b4aab02e96f8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/m4uro/.android/build-cache/2ba6483e09c530849681f8320a02cb7cc0c02748/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/m4uro/.android/build-cache/3c801841f5eee96186c7455232ea0500b6a3f479/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/AndroidManifest.xml:26:9-47

@@ -9,8 +9,9 @@
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <uses-feature
         android:name="android.hardware.BLUETOOTH_LE"
@@ -23,7 +24,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Login">
+        <activity android:name=".Authentication">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -35,7 +36,26 @@
             android:label="WWMe&apos;s Encontrados:"
             android:theme="@android:style/Theme.Dialog" />
         <activity android:name=".MainMenu" />
-        <activity android:name=".TrainingMenu"></activity>
+        <activity android:name=".TrainingMenu" />
+        <activity android:name=".ClassifierClient" />
+        <activity android:name=".RegisterSupportNet" />
+        <activity android:name=".RegisterElderly" />
+        <activity android:name=".SupportNetMenu" />
+        <activity android:name=".RegisterNewSupportNet" />
+
+        <service
+            android:name=".AlertReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".AlertResponse" />
+
+        <service
+            android:name=".hideAlertDispatcher"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".FeedbackClassifier"></activity>
     </application>
 
 </manifest>

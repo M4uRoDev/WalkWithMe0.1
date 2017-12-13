@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cl.walkwithme.m4uro.walkwithme01.AlertResponse"
+    android:background="@drawable/bg_content">
+
+    <RelativeLayout
+        android:layout_width="349dp"
+        android:layout_height="504dp"
+        tools:layout_editor_absoluteY="81dp"
+        tools:layout_editor_absoluteX="6dp">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="33dp"
+            android:text="El adulto mayor:"
+            android:textColor="@android:color/black"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView12"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="22dp"
+            android:text="%NOMBRE%"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView13"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:text="¡HA CAÍDO!"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView14"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="29dp"
+            android:text="¿Qué desea hacer?"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/textView15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:text="Socorrerlo" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/button12"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:backgroundTint="@android:color/holo_red_dark"
+            android:text="Saltar Alerta" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

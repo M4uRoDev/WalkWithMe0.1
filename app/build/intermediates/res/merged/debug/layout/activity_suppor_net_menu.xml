@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cl.walkwithme.m4uro.walkwithme01.SupportNetMenu"
+    android:background="@drawable/bg_content">
+
+    <RelativeLayout
+        android:layout_width="357dp"
+        android:layout_height="567dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="28dp">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="130dp"
+            android:text="Menu Red Apoyo"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="250sp"
+            android:layout_height="140sp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/holo_red_dark"
+            android:text="Modo Alerta"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="250sp"
+            android:layout_height="100sp"
+            android:layout_alignStart="@+id/button8"
+            android:layout_below="@+id/button8"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:text="Nueva Red de Apoyo"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="TextView"
+            android:layout_below="@+id/button9"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

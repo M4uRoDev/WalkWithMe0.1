@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_register_support_net.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_register_support_net.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_training_menu.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_training_menu.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_suppor_net_menu.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_suppor_net_menu.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_classifier_client.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_classifier_client.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_register_new_support_net.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_register_new_support_net.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_feedback_classifier.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_feedback_classifier.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_main_menu.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_register_elderly.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_register_elderly.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout/activity_alert_response.xml",
+        "source": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/src/main/res/layout/activity_alert_response.xml"
+    }
+]

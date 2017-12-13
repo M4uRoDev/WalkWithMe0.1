@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/m4uro/StudioProjects/WalkWithMe0.1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/m4uro/.android/build-cache/6baecb2adab14c01a3e5735615eec70a25f08dbd/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cl.walkwithme.m4uro.walkwithme01"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature
+        android:name="android.hardware.BLUETOOTH_LE"
+        android:required="true" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.Authentication" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cl.walkwithme.m4uro.walkwithme01.findDevices"
+            android:label="WWMe&apos;s Encontrados:"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.MainMenu" />
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.TrainingMenu" />
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.ClassifierClient" />
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.RegisterSupportNet" />
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.RegisterElderly" />
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.SupportNetMenu" />
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.RegisterNewSupportNet" />
+
+        <service
+            android:name="cl.walkwithme.m4uro.walkwithme01.AlertReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.AlertResponse" />
+
+        <service
+            android:name="cl.walkwithme.m4uro.walkwithme01.hideAlertDispatcher"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="cl.walkwithme.m4uro.walkwithme01.FeedbackClassifier" />
+    </application>
+
+</manifest>
